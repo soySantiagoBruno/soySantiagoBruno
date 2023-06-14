@@ -6,7 +6,7 @@
 ## <div align="center">Soy Santi, un desarrollador Java en proceso 😄</div>  
   
 
-#### Desde hace un tiempo comencé a estudiar programación por mi cuenta y descubrí que es algo que me apasiona. Me interesan todos aquellos proyectos que aporten cosas significativas a las personas y ayuden a que este mundo sea un poquito mejor  
+#### Estudiante autodidacta de programación. Me interesan todos aquellos proyectos que aporten cosas significativas a las personas y ayuden a que este mundo sea un poquito mejor  
   
 
 🔨 Actualmente cuento con conocimientos de Java, Git, MySQL, HTML y CSS. En un futuro próximo quiero continuar aprendiendo Spring y JUnit.  
