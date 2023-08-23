@@ -9,7 +9,7 @@
 #### Estudiante autodidacta de programación. Me interesan todos aquellos proyectos que aporten cosas significativas a las personas y ayuden a que este mundo sea un poquito mejor  
   
 
-🔨 Actualmente cuento con conocimientos de Java, Git, MySQL, HTML y CSS. En un futuro próximo quiero continuar aprendiendo Spring y JUnit.  
+🔨 Actualmente cuento con conocimientos de Java, Spring Boot, JPA, MySQL, Git, HTML y CSS.
   
 
 <br/>  
@@ -20,6 +20,7 @@
 <thead>
   <tr>
     <td><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" width="57" height="28"></td>
+    <td><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" width="88" height="28"></td>
     <td><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" width="88" height="28"></td>
     <td><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" height="28"></td>
     <td><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" width="88" height="28"></td>
