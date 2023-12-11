@@ -14,7 +14,7 @@ Me interesara trabajar en un lugar donde pueda compartir conocimientos y experie
   
 🔨 Actualmente cuento con conocimientos de Java Spring Boot, Hibernate, MVC, JPA ,MySql, Postman, Git, Maven, HTML, CSS, Bootstrap.
   
-
+  CV: https://www.canva.com/design/DAFyfUr3QgU/eAM1RBoVYLu7WXLoHRUK0Q/view?utm_content=DAFyfUr3QgU&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel
 <br/>  
 
 
