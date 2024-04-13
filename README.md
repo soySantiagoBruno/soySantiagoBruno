@@ -6,16 +6,12 @@
 ## <div align="center">Soy Santi, un desarrollador Java en proceso 😄</div>  
   
 
-Soy un desarrollador Java especializado en el desarrollo backend, con conocimientos también en frontend utilizando HTML, CSS, y Bootstrap. Tengo conocimiento en tecnologías como Spring MVC, JPA, JDBC y bases de datos relacionales MySQL. Mi objetivo a corto plazo es obtener mi primer trabajo como desarrollador, donde pueda aplicar mis habilidades y conocimientos adquiridos.
-A largo plazo, espero poder seguir capacitándome mucho más en esta area del desarrollo para poder seguir creciendo profesionalmente.
-Me interesan todos aquellos proyectos que aporten cosas significativas a las personas y ayuden a que este mundo sea un poco mejor.
-
-Me interesara trabajar en un lugar donde pueda compartir conocimientos y experiencias con un grupo de trabajo comprometido y en donde se me permita desarrollarme profesionalmente, ya sea a través de capacitaciones o proyectos que me desafíen a aprender.  
+Soy un desarrollador Java especializado en el desarrollo backend, con conocimientos también en frontend utilizando HTML, CSS, y Bootstrap. Tengo conocimiento en tecnologías como Spring MVC, JPA, JDBC y bases de datos relacionales MySQL. 
+Me encuentro en búsqueda de un puesto en donde pueda aplicar mis conocimientos en el desarrollo de un producto. A largo plazo, espero continuar capacitándome más en esta área para poder seguir creciendo profesionalmente.
   
 🔨 Actualmente cuento con conocimientos de Java Spring Boot, Hibernate, MVC, JPA ,MySql, Postman, Git, Maven, HTML, CSS, Bootstrap.
   
-  CV: https://www.canva.com/design/DAFyfUr3QgU/eAM1RBoVYLu7WXLoHRUK0Q/view?utm_content=DAFyfUr3QgU&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel
-<br/>  
+[CV](https://drive.google.com/file/d/1UiQHfDYdi66lqFl399y7GUZuWxBen601/view?usp=sharing) 
 
 
 ## Tecnologías
