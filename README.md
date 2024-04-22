@@ -3,13 +3,12 @@
 </div>  
   
 
-## <div align="center">Soy Santi, un desarrollador Java en proceso 😄</div>  
+## <div align="center">Hola! soy Santi, un desarrollador en proceso 😄</div>  
   
 
-Soy un desarrollador Java especializado en el desarrollo backend, con conocimientos también en frontend utilizando HTML, CSS, y Bootstrap. Tengo conocimiento en tecnologías como Spring MVC, JPA, JDBC y bases de datos relacionales MySQL. 
+Soy un desarrollador especializado en el desarrollo backend con Java, con conocimientos también en frontend utilizando Angular, HTML, CSS, y Bootstrap. Tengo conocimiento en tecnologías como Spring MVC, JPA, JDBC y bases de datos relacionales MySQL. 
 Me encuentro en búsqueda de un puesto en donde pueda aplicar mis conocimientos en el desarrollo de un producto. A largo plazo, espero continuar capacitándome más en esta área para poder seguir creciendo profesionalmente.
   
-🔨 Actualmente cuento con conocimientos de Java Spring Boot, Hibernate, MVC, JPA ,MySql, Postman, Git, Maven, HTML, CSS, Bootstrap.
   
 [CV](https://drive.google.com/file/d/1UiQHfDYdi66lqFl399y7GUZuWxBen601/view?usp=sharing) 
 
