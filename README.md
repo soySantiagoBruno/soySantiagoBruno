@@ -3,7 +3,7 @@
 </div>  
   
 
-## <div align="center">Hola! soy Santi, un desarrollador en proceso 😄</div>  
+## <div align="center">Hola!😄</div>  
   
 
 Desarrollador especializado en el desarrollo backend con Java, con conocimientos también en frontend utilizando Angular, HTML, CSS, y Bootstrap. Conocimiento en tecnologías como Spring MVC, JPA, JDBC y bases de datos relacionales MySQL. 
